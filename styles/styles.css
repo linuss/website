@@ -1,0 +1,42 @@
+body, p, h1, h2, h3 {
+    font-family: "Garamond", "Times New", serif;
+}
+
+h1 {
+    font-family: "Garamond", "Times New", serif;
+    font-weight: bold;
+}
+
+
+.album img {
+    width: 100%;
+}
+
+.album .titles {
+    color: lightgrey;
+    font-family: "Garamond", "Times New", serif;
+    position: absolute;
+    bottom: 8%;
+    right: 10%;
+    font-size: 1em;
+    font-style: italic;
+    background-color: black;
+    opacity: 0.7;
+    padding: 15px;
+    border-radius: 2px solid black;
+}
+
+.titles h1 {
+    font-size: 1.2em;
+    opacity: 1;
+}
+
+.titles h2 {
+    font-size: .8em;
+    opacity: 1;
+}
+
+.image img {
+    margin-top: 1em;
+    width:100%;
+}
