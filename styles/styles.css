@@ -9,18 +9,6 @@ html {
     font-size: .8em;
 }
 
-@media only screen and (max-width: 768px) {
-    html {
-	font-size: 1.2rem;
-    }
-    .titles h1 {
-	font-size: 1.44em;
-    }
-    .titles h2 {
-	font-size: .96em;
-    }
-}
-
 h1, h2, h3 {
     font-family: "Helvetica", "Arial", sans-serif;
 }
