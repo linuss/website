@@ -21,6 +21,18 @@ html {
     }
 }
 
+@media only screen and (max-width: 540) {
+    html {
+	font-size: 1.4rem;
+    }
+    .titles h1 {
+	font-size: 1.68em;
+    }
+    .titles h2 {
+	font-size: 1.12em;
+    }
+}
+
 h1, h2, h3 {
     font-family: "Helvetica", "Arial", sans-serif;
 }
